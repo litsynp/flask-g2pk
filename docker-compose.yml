@@ -1,0 +1,14 @@
+version: "3.7"
+
+services:
+  python:
+    platform: linux/amd64
+    build: .
+    command: flask run --host=0.0.0.0
+    ports:
+      - 8000:5000
+    volumes:
+      - ./:/app
+
+volumes:
+  python_data:
