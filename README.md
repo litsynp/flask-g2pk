@@ -67,3 +67,7 @@ Flask로 [`g2pk`](https://github.com/Kyubyong/g2pK) 설치해 API로 제공하�
     "result": "시늘 신꼬 얼른 동사무소에 가서 호닌 신고 해라"
   }
   ```
+
+## REF
+
+[Dockerfile 출처](https://somjang.tistory.com/entry/Docker-ubuntu1604-%EA%B8%B0%EB%B0%98%EC%97%90%EC%84%9C-mecab-ko-%ED%99%9C%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
